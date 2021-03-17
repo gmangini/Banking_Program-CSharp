@@ -1,0 +1,25 @@
+C:\Users\ginog\Documents\C#\Banking Program\bin\Debug\netcoreapp3.1\Banking Program.exe
+C:\Users\ginog\Documents\C#\Banking Program\bin\Debug\netcoreapp3.1\Banking Program.deps.json
+C:\Users\ginog\Documents\C#\Banking Program\bin\Debug\netcoreapp3.1\Banking Program.runtimeconfig.json
+C:\Users\ginog\Documents\C#\Banking Program\bin\Debug\netcoreapp3.1\Banking Program.runtimeconfig.dev.json
+C:\Users\ginog\Documents\C#\Banking Program\bin\Debug\netcoreapp3.1\Banking Program.dll
+C:\Users\ginog\Documents\C#\Banking Program\bin\Debug\netcoreapp3.1\Banking Program.pdb
+C:\Users\ginog\Documents\C#\Banking Program\obj\Debug\netcoreapp3.1\Banking Program.AssemblyInfoInputs.cache
+C:\Users\ginog\Documents\C#\Banking Program\obj\Debug\netcoreapp3.1\Banking Program.AssemblyInfo.cs
+C:\Users\ginog\Documents\C#\Banking Program\obj\Debug\netcoreapp3.1\Banking Program.csproj.CoreCompileInputs.cache
+C:\Users\ginog\Documents\C#\Banking Program\obj\Debug\netcoreapp3.1\Banking Program.dll
+C:\Users\ginog\Documents\C#\Banking Program\obj\Debug\netcoreapp3.1\Banking Program.pdb
+C:\Users\ginog\Documents\C#\Banking Program\obj\Debug\netcoreapp3.1\Banking Program.genruntimeconfig.cache
+C:\Users\ginog\Documents\C#\Banking_Program\bin\Debug\netcoreapp3.1\Banking Program.exe
+C:\Users\ginog\Documents\C#\Banking_Program\bin\Debug\netcoreapp3.1\Banking Program.deps.json
+C:\Users\ginog\Documents\C#\Banking_Program\bin\Debug\netcoreapp3.1\Banking Program.runtimeconfig.json
+C:\Users\ginog\Documents\C#\Banking_Program\bin\Debug\netcoreapp3.1\Banking Program.runtimeconfig.dev.json
+C:\Users\ginog\Documents\C#\Banking_Program\bin\Debug\netcoreapp3.1\Banking Program.dll
+C:\Users\ginog\Documents\C#\Banking_Program\bin\Debug\netcoreapp3.1\Banking Program.pdb
+C:\Users\ginog\Documents\C#\Banking_Program\obj\Debug\netcoreapp3.1\Banking Program.csprojAssemblyReference.cache
+C:\Users\ginog\Documents\C#\Banking_Program\obj\Debug\netcoreapp3.1\Banking Program.AssemblyInfoInputs.cache
+C:\Users\ginog\Documents\C#\Banking_Program\obj\Debug\netcoreapp3.1\Banking Program.AssemblyInfo.cs
+C:\Users\ginog\Documents\C#\Banking_Program\obj\Debug\netcoreapp3.1\Banking Program.csproj.CoreCompileInputs.cache
+C:\Users\ginog\Documents\C#\Banking_Program\obj\Debug\netcoreapp3.1\Banking Program.dll
+C:\Users\ginog\Documents\C#\Banking_Program\obj\Debug\netcoreapp3.1\Banking Program.pdb
+C:\Users\ginog\Documents\C#\Banking_Program\obj\Debug\netcoreapp3.1\Banking Program.genruntimeconfig.cache
